@@ -23,7 +23,6 @@ cur = con.cursor()
 # Roda o comando SQL
 cur.execute(
     """DROP TABLE IF EXISTS minhas_notas ;
-
     CREATE TABLE minhas_notas (
         id SERIAL PRIMARY KEY,
         titulo VARCHAR(255) NOT NULL,
