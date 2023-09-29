@@ -31,11 +31,25 @@ E em seguida, foi executado o servidor em FastAPI:
 
 ### Teste - Postman
 Para validar o funcionamento do servidor, foi feito um teste utilizando o Postman: 
+
+#### Post - Dados
 ![Teste com Postman](https://github.com/gabInteli/Avaliacoes-M7-Inteli-GabrielaMatias-P2/blob/main/media/teste-envio-nota-postman.png)
+
+#### Get - Dados 
 
 ![Teste com Postman](https://github.com/gabInteli/Avaliacoes-M7-Inteli-GabrielaMatias-P2/blob/main/media/validacao-teste-nota.png)
 
-#### Post - Dados
-#### Get - Dados 
 ## Execução - Frontend
+Para executar o nosso front inicialmente foi criado um server com apache na Instância. 
+Em seguida foi criado um arquivo: `front.html`
+
+Por fim, foi acessado o servidor que continha esse front de dados, conforme a demonstração abaixo. 
+![Front](https://github.com/gabInteli/Avaliacoes-M7-Inteli-GabrielaMatias-P2/blob/main/media/update-front.png)
+
 ## Demonstração 
+![Front](https://github.com/gabInteli/Avaliacoes-M7-Inteli-GabrielaMatias-P2/blob/main/media/tela-front.png)
+![Front](https://github.com/gabInteli/Avaliacoes-M7-Inteli-GabrielaMatias-P2/blob/main/media/run-front.png)
+![Front](https://github.com/gabInteli/Avaliacoes-M7-Inteli-GabrielaMatias-P2/blob/main/media/frontend.png)
+![Front](https://github.com/gabInteli/Avaliacoes-M7-Inteli-GabrielaMatias-P2/blob/main/media/post.png)
+![Front](https://github.com/gabInteli/Avaliacoes-M7-Inteli-GabrielaMatias-P2/blob/main/media/delete.png)
+
