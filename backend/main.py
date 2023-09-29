@@ -5,8 +5,9 @@ import uvicorn
 import psycopg2
 
 # Constantes
-DB_USER = "meuuserawsrds"
-DB_PASSWORD = "postgres"
+DB_USER = "postgres"
+# Atualização de Senha do meu Banco de Dados RDS 
+DB_PASSWORD = "senha123"
 # Atualização de Link do Banco de Dados o meu RDS 
 DB_HOST = "database-2.cpnfjmpfc3zn.us-east-1.rds.amazonaws.com"
 DB_PORT = "5432"
